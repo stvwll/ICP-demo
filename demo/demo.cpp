@@ -51,8 +51,8 @@ void rotatePoint(double *&T, int num2, Matrix R, Matrix t) {
 int main(int argc, char** argv) {
 	// string filename1="originalM.xyz";//"../facedata/result3_1.xyz";
 	// string filename2="originalT.xyz";//"../facedata/result3_2.xyz";
-	string filename1 = "C:/Users/Administrator/Desktop/visual studio learning/demo/originalM.xyz";
-	string filename2 = "C:/Users/Administrator/Desktop/visual studio learning/demo/originalT.xyz";//点云图
+	string filename1 = "D:/visual studio learning/demo/originalM.xyz";
+	string filename2 = "D:/visual studio learning/demo/originalT.xyz"; //点云图
 	int num1 = getLineNum(filename1);
 	int num2 = getLineNum(filename2);
 	cout << num1 << " " << num2 << endl;
@@ -84,7 +84,7 @@ int main(int argc, char** argv) {
 	cout << "Residual:" << residual;
 
 	rotatePoint(T, num2, R, t);
-	savefile(T, num2, "C:/Users/Administrator/Desktop/visual studio learning/demo/rotatedT.xyz");
+	savefile(T, num2, "D:/visual studio learning/demo/rotatedT.xyz");
 
 
 	free(M);

@@ -1,0 +1,26 @@
+﻿  pch.cpp
+  demo.cpp
+d:\visual studio learning\demo\demo\icp.h(39): warning C4244: “return”: 从“unsigned __int64”转换到“double”，可能丢失数据
+  icp.cpp
+d:\visual studio learning\demo\demo\icp.h(39): warning C4244: “return”: 从“unsigned __int64”转换到“double”，可能丢失数据
+  icpPointToPlane.cpp
+d:\visual studio learning\demo\demo\icp.h(39): warning C4244: “return”: 从“unsigned __int64”转换到“double”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtoplane.cpp(290): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtoplane.cpp(302): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtoplane.cpp(318): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtoplane.cpp(334): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtoplane.cpp(364): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  icpPointToPoint.cpp
+d:\visual studio learning\demo\demo\icp.h(39): warning C4244: “return”: 从“unsigned __int64”转换到“double”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtopoint.cpp(117): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtopoint.cpp(118): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+d:\visual studio learning\demo\demo\icppointtopoint.cpp(208): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+  kdtree.cpp
+d:\visual studio learning\demo\demo\kdtree.cpp(58): warning C4267: “初始化”: 从“size_t”转换到“const int”，可能丢失数据
+d:\visual studio learning\demo\demo\kdtree.cpp(58): warning C4267: “初始化”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio learning\demo\demo\kdtree.cpp(420): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+d:\visual studio learning\demo\demo\kdtree.cpp(464): warning C4267: “return”: 从“size_t”转换到“int”，可能丢失数据
+  matrix.cpp
+d:\visual studio learning\demo\demo\matrix.cpp(137): warning C4267: “参数”: 从“size_t”转换到“const int32_t”，可能丢失数据
+  正在生成代码...
+  demo.vcxproj -> D:\visual studio learning\demo\x64\Debug\demo.exe
